@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-local datasets, generated outputs, and experiment artifacts
+cifar-10-batches-py/
+outputs/
+__pycache__/
+*.pt
+*.pth
+*.pdf
+*.docx
+*.opju

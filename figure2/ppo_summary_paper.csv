@@ -1,0 +1,4 @@
+﻿seed,best_validation_reward,best_validation_oom,final_validation_reward,final_validation_oom,model_path
+1,509.2631925087501,0,509.2631925087501,0,D:\pythonWork\formal_test\outputs\ppo_seed_1_paper.pt
+2,511.66441966644135,0,511.66441966644135,0,D:\pythonWork\formal_test\outputs\ppo_seed_2_paper.pt
+3,511.20031041048344,0,511.20031041048344,0,D:\pythonWork\formal_test\outputs\ppo_seed_3_paper.pt
